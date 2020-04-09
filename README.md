@@ -2,7 +2,7 @@
 Api rest created for the course of treina web about django and django rest framework where the user can insert jobs and technologies similar to linkedin in some aspects, it was very nice to improve my python skills and its been very nice to do it 
 
 
-
+<p>TECHNOLOGIES</p>
  <table >
                     <thead>
                         <tr>
@@ -54,7 +54,7 @@ Api rest created for the course of treina web about django and django rest frame
                            <td>technology id in url  </td>
                            <td>http://127.0.0.1:8000/api/technologies/id</td>
                         </tr>
-   /tbody>
+   </tbody>
 </table>
             
      
