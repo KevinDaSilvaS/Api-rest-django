@@ -18,8 +18,7 @@
         </div>
     </div>
     <div class="col s10">
-        <ul class="collection">
-            <li class="collection-item">TECHNOLOGIES</li>
+            <p>TECHNOLOGIES</p>
                 <table class="">
                     <thead>
                         <tr>
@@ -88,7 +87,7 @@
                 </table>
             
             <hr>
-            <li class="collection-item">JOBS</li>
+            <p class="collection-item">JOBS</p>
                 <table class="">
                     <thead>
                         <tr>
@@ -169,9 +168,6 @@
                         </tr>
                     </tbody>
                 </table>
-            
-
-        </ul>
     </div>
 </body>
     <!-- Compiled and minified JavaScript -->
