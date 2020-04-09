@@ -1,5 +1,7 @@
 # Api-rest-django
-Api rest created for the course of treina web about django and django rest framework where the user can insert jobs and technologies similar to linkedin in some aspects, it was very nice to improve my python skills and its been very nice to do it 
+This project is an api rest build for the treina web course "creating rest apis with django" 
+                and its made with sqlite, python, django and django rest framework.
+                The main purpose of the project is to add jobs in it and add technologies to a job like linkedin, glassdoor etc.
 
 
 <p>TECHNOLOGIES</p>
