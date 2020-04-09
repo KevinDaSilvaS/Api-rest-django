@@ -17,7 +17,6 @@ Api rest created for the course of treina web about django and django rest frame
                             <td>-</td>
                             <td>http://127.0.0.1:8000/api/technologies/</td>
                         </tr>
-                
                         <tr>
                             <td>Find Especific Technology method: GET</td>
                             <td>
@@ -27,7 +26,6 @@ Api rest created for the course of treina web about django and django rest frame
                                 http://127.0.0.1:8000/api/technologies/id
                             </td>
                         </tr>
-                    
                         <tr>
                             <td>Insert Technology method: POST</td>
                             <td>
@@ -39,28 +37,23 @@ Api rest created for the course of treina web about django and django rest frame
                                 http://127.0.0.1:8000/api/technologies/
                             </td>
                         </tr>
-                   
                         <tr>
                             <td>Update Technology method: PUT</td>
                             <td>
                                 {
                                     "name": "Python"
                                 }
-
                                 technology id in url
                             </td>
                             <td>
                                 http://127.0.0.1:8000/api/technologies/id
                             </td>
                         </tr>
-
                         <tr>
-                            <td>Delete Technology method: DELETE</td>
-                            <td>
-                                technology id in url
-                            </td>
-         <td>http://127.0.0.1:8000/api/technologies/id</td>
-      </tr>
+                           <td>Delete Technology method: DELETE</td>
+                           <td>technology id in url  </td>
+                           <td>http://127.0.0.1:8000/api/technologies/id</td>
+                        </tr>
    /tbody>
 </table>
             
