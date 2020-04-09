@@ -1,5 +1,4 @@
-<p>TECHNOLOGIES</p>
-                <table class="">
+<table class="">
                     <thead>
                         <tr>
                             <th>Operations</th>
@@ -68,7 +67,7 @@
             
             <hr>
             <p class="collection-item">JOBS</p>
-                <table class="">
+                <table>
                     <thead>
                         <tr>
                             <th>Operations</th>
